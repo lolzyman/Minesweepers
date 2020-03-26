@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<project>                                  
+  <executable name="dist/ATtiny84_Program/production/MineSweepers.X.production.elf">                 
+    <memory name="program">              
+      <units>bytes</units>                 
+      <length>8192</length>                 
+      <used>380</used>                     
+      <free>7812</free>                     
+    </memory>                              
+    <memory name="data">                 
+      <units>bytes</units>                 
+      <length>512</length>                 
+      <used>2</used>                     
+      <free>510</free>                     
+    </memory>                              
+  </executable>                            
+</project>                                 
